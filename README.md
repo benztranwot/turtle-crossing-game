@@ -2,6 +2,8 @@
 
 Help our turtle friend to cross the street safety. Try it and see how far you can get!
 
+<img src="./docs/img/turtle.png" />
+
 ## How to play
 
 First clone the repository and install the turtle module. Then run the following command:
